@@ -6,7 +6,7 @@ def header():
 ---------------------------------------------\n""")
   print("Select the number 0 to exit the program\n")
 
-  operations = ["Addition", "Subtraction", "Multiplication", "Division", "Square Root", "Cube Root", "Exponents"] 
+  operations = ["Addition", "Subtraction", "Multiplication", "Division", "Square Root", "Cube Root", "Exponents"]
 
   number = 0
 
